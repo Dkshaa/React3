@@ -1,0 +1,18 @@
+{
+  "name": "react-realtime-todolist",
+  "version": "1.0.0",
+  "description": "A realtime React todo list app with filters, stats, editing, and localStorage persistence.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "check": "node scripts/check-project.js"
+  },
+  "keywords": [
+    "react",
+    "todo",
+    "localstorage",
+    "practice"
+  ],
+  "author": "Diksha Karki",
+  "license": "MIT"
+}
